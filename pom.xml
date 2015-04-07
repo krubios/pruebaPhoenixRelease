@@ -24,6 +24,6 @@
 
 	<properties>
       <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
-      <scm.url>https://github.com/krubios/pruebaPhoenixRealease.git</scm.url>
+      <scm.url>https://github.com/krubios/pruebaPhoenixRelease.git</scm.url>
     </properties>
 </project>
